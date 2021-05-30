@@ -9,3 +9,9 @@ $ cd spam-callv2
 $ pip install requests
 $ python call.py
 ```
+# Creator
+[Hilmy](https://github.com/HilmySakti)
+[Sxp-ID](https://github.com/Sxp-ID)
+```
+[Donate](https://trakteer.id/HilmyGaming87)
+```
